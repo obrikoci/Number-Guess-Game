@@ -1,5 +1,3 @@
-#Number Guessing Game Objectives:
-
 from random import randint
 from art import logo
 EASY_ATTEMPTS = 10
